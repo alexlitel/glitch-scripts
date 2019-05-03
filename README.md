@@ -53,7 +53,7 @@ There's a `input` directory for the images for the image modification to consume
          - `div`: sets # of vertical stripes
 
 ## Contributing
-I probably will not be changing these scripts much, but if you can decipher these scripts and make any improvements (say, the bug with the image generation).
+I probably will not be changing these scripts much, but if you can decipher these scripts and make any improvements that don't make them less accessible, feel free to do so.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
