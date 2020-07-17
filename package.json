@@ -10,7 +10,7 @@
   "dependencies": {
     "get-pixels": "^3.3.2",
     "jpeg-js": "^0.3.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "yargs": "^13.2.2"
   },
   "devDependencies": {
